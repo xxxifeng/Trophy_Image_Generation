@@ -49,3 +49,5 @@ python evaluate.py \
 ```
 
 ### 评估结果展示
+DCGAN 64*64不同epoch下生成图像变化
+<p align="center"><img src="visual/DCGAN6464.gif" width=""500"/></p>
