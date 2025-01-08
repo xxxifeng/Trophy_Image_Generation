@@ -37,7 +37,7 @@ python DCGAN.py \
 --sample True \
 --img_num 100
 ```
-训练好的模型保存在"checkpoint"文件夹下，使用DCGAN，则将生成器和判别器对应的checkpoint分存储在"DCGAN/generator"和"DCGAN/discriminator"文件夹下，使用DDPM，则将checkpoint存储在"DDPM"文件夹下,已上传部分训练好的模型到[百度网盘]()，密码：
+训练好的模型保存在"checkpoint"文件夹下，使用DCGAN，则将生成器和判别器对应的checkpoint分存储在"DCGAN/generator"和"DCGAN/discriminator"文件夹下，使用DDPM，则将checkpoint存储在"DDPM"文件夹下,已上传部分训练好的模型到[百度网盘](https://pan.baidu.com/s/1oAI8gFzY7ZY-9CGi1kyFrg?pwd=6rnt)，密码：6rnt
 
 # 生成图像评估
 注意此处生成图像数量需要提前生成好，并与真实数据集图像数量保持一致，图像路径的父文件夹需要包含在输入路径下，运行下面命令即可输出生成图像的真实性、FID、特征分布情况对比图(例：指定最后训练的判别器作为鉴别器，生成图像路径为"./result_DCGAN"，真实数据集路径为"./dataset"):
