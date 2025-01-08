@@ -48,6 +48,3 @@ python evaluate.py \
 --classifier_path "./checkpoint/DCGAN/discriminator/last.pth"
 ```
 
-### 评估结果展示
-DCGAN 64*64不同epoch下生成图像变化
-![visual/DCGAN6464.gif](https://bgithub.xyz/xxxifeng/Trophy_Image_Generation/blob/master/visual/DCGAN6464-2.gif)
