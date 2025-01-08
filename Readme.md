@@ -50,4 +50,4 @@ python evaluate.py \
 
 ### 评估结果展示
 DCGAN 64*64不同epoch下生成图像变化
-![img](visual/DCGAN6464.gif)
+![visual/DCGAN6464.gif](https://bgithub.xyz/xxxifeng/Trophy_Image_Generation/blob/master/visual/DCGAN6464-2.gif)
