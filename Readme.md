@@ -12,6 +12,7 @@
 ```
 python load_data.py
 ```
+奖杯素材已上传至[百度网盘](https://pan.baidu.com/s/1oAI8gFzY7ZY-9CGi1kyFrg?pwd=6rnt)，密码：6rnt
 
 ## 模型训练
 终端运行下面的命令,即可从0开始对模型进行训练(例：对DCGAN从头开始进行训练)：
